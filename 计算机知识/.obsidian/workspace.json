@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "06283bd9d282abc0",
+        "id": "d0802359c9059342",
         "type": "tabs",
         "children": [
           {
-            "id": "a91e2654700effa3",
+            "id": "947f7591f8c7e609",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "笔记/前端/React.md",
+                "file": "笔记/计算机组成原理.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "笔记/前端/React.md",
+                "file": "笔记/计算机组成原理.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "笔记/前端/React.md",
+                "file": "笔记/计算机组成原理.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "笔记/前端/React.md"
+                "file": "笔记/计算机组成原理.md"
               }
             }
           }
@@ -146,10 +146,10 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "a91e2654700effa3",
+  "active": "947f7591f8c7e609",
   "lastOpenFiles": [
-    "笔记/前端/React Hooks.md",
     "笔记/前端/React.md",
+    "笔记/前端/React Hooks.md",
     "笔记/计算机网络.md",
     "Index.md",
     "笔记/X-86 汇编原理.md",
