@@ -52,7 +52,11 @@ git config
 
 
 git commit
- 
+提交到本地仓库中
+
+
+git push origin  master
+提交到远程仓库
 
 
 
