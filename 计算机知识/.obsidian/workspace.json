@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "d0802359c9059342",
+        "id": "afa9f42fa243ac3f",
         "type": "tabs",
         "children": [
           {
-            "id": "947f7591f8c7e609",
+            "id": "13658502373566be",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "笔记/工具/Git.md",
+                "file": "笔记/电子/数字电子学.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "笔记/工具/Git.md",
+                "file": "笔记/电子/数字电子学.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "笔记/工具/Git.md",
+                "file": "笔记/电子/数字电子学.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "笔记/工具/Git.md"
+                "file": "笔记/电子/数字电子学.md"
               }
             }
           }
@@ -146,15 +146,20 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "947f7591f8c7e609",
+  "active": "13658502373566be",
   "lastOpenFiles": [
+    "笔记/电子/模拟电子学.md",
+    "笔记/电子/数字电子学.md",
+    "笔记/电子/微型计算机原理.md",
+    "笔记/电子/电路原理.md",
+    "笔记/工具/Git.md",
+    "笔记/电子",
     "附件/git.drawio 1.png",
     "附件/git.drawio (3).png",
     "附件/git.drawio (2).png",
     "附件/git.drawio (1).png",
     "附件/git.drawio.png",
     "笔记/计算机组成原理.md",
-    "笔记/工具/Git.md",
     "笔记/工具",
     "笔记/前端/React.md",
     "笔记/前端/React Hooks.md",
