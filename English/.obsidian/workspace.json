@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "c54fb8a30c01d4b0",
+        "id": "bc7703d532010735",
         "type": "tabs",
         "children": [
           {
-            "id": "be85734f06ec7a2a",
+            "id": "c287cf6c63734b51",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "笔记/词汇/词根词缀.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -146,7 +142,7 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "be85734f06ec7a2a",
+  "active": "9ffde33965025476",
   "lastOpenFiles": [
     "笔记/词汇/反义词和近义词.md",
     "笔记/词汇/词根词缀.md",
