@@ -15,3 +15,7 @@
 
 [[Linux]]
 
+
+
+git remote set-url origin https://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@github.com/HayesYoung/learngit.git
+github token:  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
