@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Index.md",
+                "file": "笔记/工具/Git.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Index.md",
+                "file": "笔记/工具/Git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Index.md",
+                "file": "笔记/工具/Git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Index.md"
+                "file": "笔记/工具/Git.md"
               }
             }
           }
@@ -148,19 +148,21 @@
   },
   "active": "b042237959dbffe9",
   "lastOpenFiles": [
-    "Index.md",
-    "笔记/工具/Git.md",
     "笔记/工具/Github.md",
+    "笔记/工具/Git.md",
+    "图片/gitbranchvv20230630191328.png",
+    "Index.md",
+    "图片",
+    "附件/git.drawio.png",
+    "附件/git.drawio (1).png",
+    "附件/git.drawio (2).png",
+    "附件/git.drawio 1.png",
     "笔记/电子/数字电子学.md",
     "笔记/电子/模拟电子学.md",
     "笔记/电子/微型计算机原理.md",
     "笔记/电子/电路原理.md",
     "笔记/电子",
-    "附件/git.drawio 1.png",
     "附件/git.drawio (3).png",
-    "附件/git.drawio (2).png",
-    "附件/git.drawio (1).png",
-    "附件/git.drawio.png",
     "笔记/计算机组成原理.md",
     "笔记/工具",
     "笔记/前端/React.md",
